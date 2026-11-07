@@ -13,10 +13,6 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Dernival Santana | 💻 Estudante de Python e Análise de Dados | 🚀 Brasil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
-<p align="center">
-   <a href="https://visitor-badge.glitch.me/badge?page_id=dernival2001-cpu.dernival2001-cpu"> <img alt="contador de visitantes" src="https://visitor-badge.glitch.me/badge?page_id=dernival2001-cpu.dernival2001-cpu"> </a>
-</p>
- 
  <h5 align="center">
    <i>⚡️ "Transformando dados brutos em decisões inteligentes através da programação." ⚡️</i>
  </h5>
