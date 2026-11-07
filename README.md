@@ -32,6 +32,8 @@
 
  - 💻 Criando projetos práticos para resolver problemas reais de negócios.
 
+### - Linguagens e ferramentas
+
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
