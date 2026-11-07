@@ -30,5 +30,3 @@
  - 🔭 Construindo uma base sólida em lógica de programação, algoritmos e boas práticas no Git/GitHub.
 
  - 💻 Criando projetos práticos para resolver problemas reais de negócios.
- 
- - 🌱 Acredito que a
