@@ -31,10 +31,9 @@
  - 🔭 Construindo uma base sólida em lógica de programação, algoritmos e boas práticas no Git/GitHub.
 
  - 💻 Criando projetos práticos para resolver problemas reais de negócios.
-
+<p align="center" >
 ### - Linguagens e ferramentas
-
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-</p>
+
