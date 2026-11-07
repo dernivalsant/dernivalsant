@@ -23,6 +23,11 @@
    <h3> Em transição e evolução constante no ecossistema de dados.</h3>
 </p>
 
+<p align="center">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+</p>
+
  - 🐍 Estudando **Python e Análise de Dados** de forma intensiva pela **Hashtag Treinamentos**.
  
  - 📊 Focado em dominar manipulação de dados, automações inteligentes e visualização analítica.
