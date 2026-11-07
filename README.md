@@ -1,7 +1,7 @@
-**<div align="center">
-   <h1>Olá, eu me chamo <a href="https://github.com/dernival2001-cpu">Dernival Santana</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<div align="center">
+   <h1>Olá, sou o <a href="https://github.com/dernival2001-cpu">Dernival Santana</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+   <img src="https://pronoun.cyou/x/y?subject=Ele&object=O&height=20"> 
 </div>
 
 <p align='center'>
@@ -10,11 +10,11 @@
 </p>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Dernival Santana | 💻 Python & Data Analysis Student | 🚀 Brasil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Dernival Santana | 💻 Estudante de Python e Análise de Dados | 🚀 Brasil <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 <p align="center">
-   <a href="https://visitor-badge.glitch.me/badge?page_id=dernival2001-cpu.dernival2001-cpu"> <img alt="visitor badge" src="https://visitor-badge.glitch.me/badge?page_id=dernival2001-cpu.dernival2001-cpu"> </a>
+   <a href="https://visitor-badge.glitch.me/badge?page_id=dernival2001-cpu.dernival2001-cpu"> <img alt="contador de visitantes" src="https://visitor-badge.glitch.me/badge?page_id=dernival2001-cpu.dernival2001-cpu"> </a>
 </p>
  
  <h5 align="center">
@@ -35,49 +35,4 @@
 
  - 💻 Criando projetos práticos para resolver problemas reais de negócios.
  
- - 🌱 Acredito que a consistência e a resiliência superam qualquer obstáculo no aprendizado técnico.
- 
- - 💬 Vamos nos conectar e trocar ideias sobre tecnologia e dados!
- 
-<p align="center">
- <h4> Data Analysis | Python | Problem Solving </h4>
-</p>
-
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=dernival2001-cpu&show_icons=true&theme=radical"/>
-  </a>
-</p>
-
-<br />
-
-### - Languages and Tools...
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">   
-</p>
-
-### - What i do
-
-<br />
-
-<p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
-</p>
-   
-<br />
-
-<h2 align="center">🤝 Support</h2>
-
-<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feedback são sempre muito bem-vindos!</p>
-
-<p align="center">💙 Se você gosta dos meus repositórios de estudo, deixe uma ⭐ para apoiar minha jornada!</p>
-
-<p align="center">Feito com ❤️ no Brasil</p>
-
-<h1 align='center'>⚡️<i>Keep coding & stay focused!</i>⚡️</h1>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
-**
+ - 🌱 Acredito que a
