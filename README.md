@@ -41,4 +41,4 @@
 </p>
 
 ### 🚀 Principais Projetos
-<p> * **[Python Impressionador]:** Aprendendo e me aprofundando em Python! <a https://github.com/dernivalsant/Aulas-Python-Hashtag </a></p>
+<p> *[Python Impressionador]: Aprendendo e me aprofundando em Python! <a href="https://github.com/dernivalsant/Aulas-Python-Hashtag" </a></p>
