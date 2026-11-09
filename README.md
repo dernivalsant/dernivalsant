@@ -1,11 +1,10 @@
 <div align="center">
    <h1>Olá, sou o <a href="https://github.com/dernival2001-cpu">Dernival Santana</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
-   <img src="https://pronoun.cyou/x/y?subject=Ele&object=O&height=20"> 
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/seu-usuario-linkedin/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="www.linkedin.com/in/dernival-santana-santos-23ab3b440" target="_blank"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
    <a href="https://github.com/dernival2001-cpu"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
 </p>
 
