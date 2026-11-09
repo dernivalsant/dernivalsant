@@ -39,3 +39,6 @@
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
 </p>
+
+### 🚀 Principais Projetos
+* **[Python Impressionador]([link-do-repositorio](https://github.com/dernivalsant/Aulas-Python-Hashtag)):** Aprendendo e me aprofundando em Python!
