@@ -4,7 +4,7 @@
 </div>
 
 <p align='center'>
-   <a href="[www.linkedin.com/in/dernival-santana-santos-23ab3b440](https://www.linkedin.com/in/dernival-santana-santos-23ab3b440/)" target="_blank"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/dernival-santana-santos-23ab3b440/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
    <a href="https://github.com/dernival2001-cpu"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
 </p>
 
