@@ -41,4 +41,4 @@
 </p>
 
 ### 🚀 Principais Projetos
-<a href="https://www.linkedin.com/in/dernival-santana-santos-23ab3b440/" target="_blank"><p> * **[Python Impressionador]:** Aprendendo e me aprofundando em Python!</p></a>
+<p> * **[Python Impressionador]:** Aprendendo e me aprofundando em Python! <a https://github.com/dernivalsant/Aulas-Python-Hashtag </a></p>
